@@ -1,0 +1,8 @@
+.name_store{
+    font-size: 24px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.fa-caret-left, .fa-caret-right{
+    padding: 20px 0;
+}
